@@ -11,7 +11,7 @@ Feedback Site|???|Feedback sending for Velvet Web|No Estimated Date.
 - Basic Browser features
    - Search bar
    - Back/Forward buttons
-   - User accounts
+   
    
 ### Why?
-Ever since JaydenRidley4 made [LiteIE](https://github.com/jaydenridley4/liteie)-- Internet explorer but simplified. We got quite inspired and decided to start development to **Velvet Web**.
+Ever since jaydenridley4 made [LiteIE](https://github.com/jaydenridley4/liteie)-- Internet explorer but simplified. We got quite inspired and decided to start development to **Velvet Web**.
