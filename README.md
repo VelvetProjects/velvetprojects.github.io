@@ -2,11 +2,12 @@
 
 Project Name|Development Stated|Description|Estimated Completion Date|
 :-:|:-:|:-:|:-:|
-Velvet Web|28/8/22|Web browser based on **Chromium** or **Internet Explorer**|1/10/22|
 Feedback Site|???|Feedback sending for Velvet Web|No Estimated Date|
 
-## [Velvet Web](https://github.com/VelvetProjects/VelvetWeb)
-**Velvet web** is a browser that will bring back memories of **Internet Explorer** in a more modern interface
+## [Velvet Web](https://github.com/VelvetProjects/VelvetWeb) (Complete!)
+### **Velvet web** is now complete! Check it out by clicking on the blue text!
+
+Velvet Web is a browser that will bring back memories of **Internet Explorer** in a more modern interface
 
 ### Features
 - Basic Browser features
