@@ -4,9 +4,14 @@
 
 Project Name|Development Stated|Description|Estimated Completion Date|
 :-:|:-:|:-:|:-:|
-Velvet Web V1.2|5/9/22|||
+Bolt ⚡️| | Traverse the web at lightning speeds ⚡️| |
+Velvet Web 🌷| |Web browser 🌷| |
+The Velvet Website 🌐| | Our website for everything 🌐| 
+Downloads Page (Website) ❕ | | The place to download Velvet's Creations ❕ | |
+Blog Page 📕 | | The home of velvet's "campfire stories" 📕 | |
+Secret Project 😏 | | You cant know. 😏 | |
 
-
-# [Velvet Web V1.2](https://github.com/orgs/VelvetProjects/discussions/categories/velvet-web-updates)
-Velvet Web V1.2 will fix lots of bugs and new features may come
-
+## Jobs
+Job Title|Job Description|FAQ|
+:-:|:-:|:-:|
+Web Developer|Develop our website!| |
